@@ -1,0 +1,5 @@
+name: Drupal-Reactor
+type: theme
+description: 'First Test of a Drupal-React.js integration'
+core: ^9
+base theme: bootstrap5
